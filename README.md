@@ -1,2 +1,2 @@
-# Functional-Diversity
+# Functional Diversity
 Analysis of Functional Diversity
